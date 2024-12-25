@@ -18,8 +18,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![NVIDIA cuDNN](https://img.shields.io/badge/cuDNN-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![Large Language Models](https://img.shields.io/badge/LLM-%2334A853.svg?style=for-the-badge)
 ![LLaMA](https://img.shields.io/badge/LLaMA-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%236AD1E4.svg?style=for-the-badge&logo=pinecone&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
