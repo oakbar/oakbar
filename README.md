@@ -1,7 +1,7 @@
 <div align="center">
   
   <img src="https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg" alt="Banner"/>
-
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ewbyf&show_icons=true&locale=en" alt="oakbar" /></p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oakbar&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
