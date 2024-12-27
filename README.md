@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg" alt="Banner" />
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oakbar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oakbar&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oakbar&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
