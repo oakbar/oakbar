@@ -1,5 +1,8 @@
 <div align="center">
+  
   <img src="https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg" alt="Banner" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=04A2D4&center=true&width=435&lines=software+engineering+%2B+research)](https://git.io/typing-svg) 
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=oakbar&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
