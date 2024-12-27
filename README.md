@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg" alt="Banner" />
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=oakbar&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=oakbar&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
