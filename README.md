@@ -2,7 +2,7 @@
   <img src="https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg" alt="Banner" />
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oakbar&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oakbar&show_icons=true&theme=github_dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oakbar&show_icons=true&theme=github_dark&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
