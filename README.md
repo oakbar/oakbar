@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=04A2D4&center=true&width=435&lines=software+engineering+%2B+research)](https://git.io/typing-svg) 
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=oakbar&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=oakbar&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
