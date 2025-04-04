@@ -32,5 +32,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+  <p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oakbar&theme=high-contrast" alt="README Activity">
+  </p>
 </div>
